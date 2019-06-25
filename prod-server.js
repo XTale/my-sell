@@ -2,7 +2,7 @@ const express = require('express');
 const ora = require('ora');
 const config = require('./config');
 
-const port = process.env.PORT || 8800;
+const port = process.env.PORT || 8900;
 
 var app = express();
 
@@ -19,6 +19,7 @@ apiRouter.get('/seller', function(req, res) {
     data: seller
   })
 });
+
 //通过路由来发送get请求与用app来发送请求是一致的
 apiRouter.get('/goods', function(req, res) {
   res.json({

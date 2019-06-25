@@ -41,6 +41,11 @@ module.exports = {
       'components': path.resolve(__dirname, '../src/components')
     }
   },
+  externals: { // 排除掉一些打包时比较大的第三方库，直接放到对应的cdn中
+    'vue': 'Vue',
+    'vue-resource': 'VueResource',
+    'vue-router': 'VueRouter'
+  },
   module: {
     rules: [
       ...(config.dev.useEslint ? [createLintingRule()] : []),
