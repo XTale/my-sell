@@ -23,6 +23,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 访问二维码如下
 ![访问二维码](https://github.com/XTale/my-sell/blob/master/%E8%AE%BF%E9%97%AE%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 ## 优化之后访问二维码如下
-![image](https://github.com/chenchu001/shopcart/blob/master/static/images/shopcart.png)
+![image](https://github.com/XTale/my-sell/blob/master/%E4%BC%98%E5%8C%96%E8%AE%BF%E9%97%AE%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ### 本项目是个人学习项目,部分代码有参考慕课网饿了吗视频源码,建议想学习的朋友到慕课网上支持下黄老师的课程,老师的讲解也很细致,墙裂推荐.
